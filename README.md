@@ -4,7 +4,7 @@ A Multi Task Learning Model Applied to Computer Vision
 ## Network Framework Diagram (VMSANet)
 
 <p align="center">
-  <img src="./VMSANet.png" width="700"/>
+  <img src="./LAKNet.png" width="700"/>
 </p>
 
 ## 1. Preparation
