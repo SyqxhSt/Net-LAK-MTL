@@ -1,5 +1,6 @@
 # Net-LAK-MTL
 A Multi Task Learning Model Applied to Computer Vision
+In the proposed framework, L3, L4, and L5 correspond to networks with different depths, representing hierarchical feature extraction levels.
 ## Network Framework Diagram (LAKNet)
 
 <p align="center">
