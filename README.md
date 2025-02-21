@@ -1,7 +1,6 @@
 # Net-LAK-MTL
-# Net-Opt-MTL
 A Multi Task Learning Model Applied to Computer Vision
-## Network Framework Diagram (VMSANet)
+## Network Framework Diagram (LAKNet)
 
 <p align="center">
   <img src="./LAKNet.png" width="700"/>
